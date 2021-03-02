@@ -1,0 +1,20 @@
+#boton {
+	background-color: red;
+	width: 50%;
+	margin: 0 25%;
+	text-align: center;
+	color: white;
+}
+#wrapp {
+	margin: 60px 25%;
+	font-size: 20px;
+	text-align: center;
+	background-color: greenyellow;
+	padding: 50px;
+}
+body {
+	background-color: aqua;
+}
+img {
+	width: 100%;
+}
