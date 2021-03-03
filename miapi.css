@@ -5,6 +5,14 @@
 	text-align: center;
 	color: white;
 }
+#reset {
+	background-color: red;
+	width: 50%;
+	margin: 0 25%;
+	text-align: center;
+	color: white;
+	margin-top: 40px;
+}
 #wrapp {
 	margin: 60px 25%;
 	font-size: 20px;
@@ -17,4 +25,7 @@ body {
 }
 img {
 	width: 100%;
+}
+.reset {
+	display: none;
 }
